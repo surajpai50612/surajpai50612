@@ -2,6 +2,10 @@
 
 ### I am a Programmer💻, Enthusiastic Learner📚 and WKC Scholar🎓
 
+#### Take a peek 👀
+
+Linkedin Follow Twitter Follow
+
 <!--
 **surajpai50612/surajpai50612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
