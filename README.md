@@ -7,7 +7,7 @@
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-1197d4?style=for-the-badge&logo=linkedin&labelColor=0e76a8)](https://www.linkedin.com/in/suraj-pai-k/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-e95950?style=for-the-badge&logo=Instagram&logoColor=White&labelColor=fccc63)](https://www.instagram.com/suraj_pai_k/)
 
-### Technical Skills :wrench: 
+### Technology 📃 and Tools :wrench: 
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
