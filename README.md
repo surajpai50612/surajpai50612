@@ -17,7 +17,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br/>
-
+<br/>
 ## Activity
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajpai50612&theme=dark&show_icons=true)
