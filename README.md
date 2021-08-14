@@ -1,6 +1,6 @@
-## Hi there, I'm Suraj Pai K 👋
+## Hey there, I'm Suraj Pai K 👋
 
-### Programmer, Enthusiastic Learner and WKC Scholar
+### I am a Programmer💻, Enthusiastic Learner📚 and WKC Scholar🎓
 
 <!--
 **surajpai50612/surajpai50612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
