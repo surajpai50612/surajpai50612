@@ -5,7 +5,7 @@
 #### Follow me on👀
 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-1197d4?style=for-the-badge&logo=linkedin&labelColor=0e76a8)](https://www.linkedin.com/in/suraj-pai-k/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-e95950?style=for-the-badge&logo=Instagram&logoColor=White&logoWidth=25&labelColor=fccc63)](https://www.instagram.com/suraj_pai_k/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-e95950?style=for-the-badge&logo=Instagram&logoColor=White)](https://www.instagram.com/suraj_pai_k/)
 
 ## Check out my Website :small_red_triangle_down:
 [uttamkh.me](https://uttamkh.me/#/) 
