@@ -13,8 +13,8 @@
 <a href="https://www.apachefriends.org/index.html"> <img align="left" alt="XAMPP" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" height ="42px"/> </a>
 <a href="https://developer.android.com"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://firebase.google.com/"> <img align="left" alt="Firebase" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" height ="42px"/> </a>
-<a href="https://www.learn-c.org/" target="_blank"><img align="left" alt="C" height ="42px" src="https://content.timesjobs.com/img/75734018/Master.jpg"></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBe-3qXBz_Bqeqqeew2z-bJUug7uaEtPPfg&usqp=CAU"></a>
+<a href="https://www.learn-c.org/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a><br/><br/>
