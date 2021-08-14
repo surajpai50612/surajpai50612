@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Suraj Pai K 👋
 
 <!--
 **surajpai50612/surajpai50612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+Ready to be lightnised ⚡
+Take a peek 👀 -->
