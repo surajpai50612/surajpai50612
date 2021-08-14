@@ -17,7 +17,7 @@
 <a href="https://www.oracle.com/java/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="php" height ="42px" src="https://www.php.net/images/logos/new-php-logo.svg"></a><br/><br/>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="php" height ="42px" src="https://www.php.net/images/logos/new-php-logo.svg"></a><br/><br/>
 
 ### Activity
 
