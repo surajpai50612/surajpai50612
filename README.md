@@ -1,5 +1,5 @@
 ### Hi there, I'm Suraj Pai K 👋
-<br/>
+
 ### Programmer, Enthusiastic Learner and WKC Scholar
 
 <!--
