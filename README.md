@@ -1,6 +1,6 @@
 # Hey there, I'm Suraj Pai K 👋
 
-## I am a Programmer💻, Enthusiastic Learner📚 and WKC Scholar🎓
+## I am a Programmer💻, Enthusiastic Learner📚 and VKSSF Scholar🎓
 
 ### Follow me on👀
 
