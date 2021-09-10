@@ -18,11 +18,9 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySql" height ="42px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="php" height ="42px" src="https://www.php.net/images/logos/new-php-logo.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a><br/><br/>
-<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; -->
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Js" height ="42px" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a><br/><br/>
 
 ### Activity
 
