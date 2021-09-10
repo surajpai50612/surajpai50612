@@ -23,6 +23,7 @@
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajpai50612&theme=dark&show_icons=true)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpai50612&layout=compact)](https://github.com/surajpai50612/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpai50612&&theme=dark&layout=compact)](https://github.com/surajpai50612/github-readme-stats)
 </br>
 
