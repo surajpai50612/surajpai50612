@@ -18,6 +18,8 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySql" height ="42px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="php" height ="42px" src="https://www.php.net/images/logos/new-php-logo.svg"></a><br/><br/>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### Activity
 
@@ -27,5 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpai50612&&theme=dark&layout=compact)](https://github.com/surajpai50612/github-readme-stats)
 </br>
 </br>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpai50612&label=Profile%20views&color=0e75b6&style=flat" alt="surajpai50612" /> </p> -->
 
