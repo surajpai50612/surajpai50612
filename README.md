@@ -26,4 +26,6 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpai50612&&theme=dark&layout=compact)](https://github.com/surajpai50612/github-readme-stats)
 </br>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpai50612&label=Profile%20views&color=0e75b6&style=flat" alt="surajpai50612" /> </p>
 
