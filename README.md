@@ -20,7 +20,7 @@
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="php" height ="42px" src="https://www.php.net/images/logos/new-php-logo.svg"></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Js" height ="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDK3rMA9feMarL-dwXBUAvFVPd1dgaSLNQLg&usqp=CAU"></a><br/><br/>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Js" height ="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a><br/><br/>
 
 ### Activity
 
