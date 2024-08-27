@@ -5,7 +5,6 @@
 ### Follow me on👀
 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-1197d4?style=for-the-badge&logo=linkedin&labelColor=0e76a8)](https://www.linkedin.com/in/suraj-pai-k/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-e95950?style=for-the-badge&logo=Instagram&logoColor=White&labelColor=fccc63)](https://www.instagram.com/suraj_pai_k/)
 
 ### Languages 📃 and Tools :wrench: 
 
@@ -30,5 +29,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpai50612&&theme=dark&layout=compact)](https://github.com/surajpai50612/github-readme-stats)
 </br>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpai50612&label=Profile%20views&color=0e75b6&style=flat" alt="surajpai50612" /> </p>
 
