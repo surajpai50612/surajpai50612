@@ -8,7 +8,7 @@
 
 ### Technologies 👨‍💻 and Tools :wrench:
 
-<a href=""> <img align="left" alt="C# Programming" width="40px" src="https://images.app.goo.gl/irz96vTbaaGemZH76" /> </a>
+<a href=""> <img align="left" alt="C# Programming" width="40px" src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/08/b476fc9b.png" /> </a>
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
