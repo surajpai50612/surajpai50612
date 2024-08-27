@@ -8,7 +8,7 @@
 
 ### Technologies 👨‍💻 and Tools :wrench:
 
-<a href=""> <img align="left" alt="C# Programming" width="40px" src="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" /> </a>
+<a href=""> <img align="left" alt="C# Programming" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2eQmZCgu_rvA9d91x5uUy5U7lCFdTgbf3eQ&s" /> </a>
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
