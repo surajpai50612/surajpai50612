@@ -6,7 +6,7 @@
 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-1197d4?style=for-the-badge&logo=linkedin&labelColor=0e76a8)](https://www.linkedin.com/in/suraj-pai-k/)
 
-### Tools :wrench: and Technologies 👨‍💻
+### Technologies 👨‍💻 and Tools :wrench:
 
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 <a href="https://www.apachefriends.org/index.html"> <img align="left" alt="XAMPP" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" height ="42px"/> </a>
