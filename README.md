@@ -1,6 +1,6 @@
 # Hey there, I'm Suraj Pai K 👋
 
-## Software Engineer💻, Enthusiastic Learner📚
+## I am a Software Engineer💻 and Enthusiastic Learner📚
 
 ### Follow me on👀
 
