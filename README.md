@@ -24,6 +24,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a><br/><br/>
 
+</br>
 ### Activity
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajpai50612&theme=dark&show_icons=true)
