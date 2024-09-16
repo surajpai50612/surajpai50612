@@ -9,8 +9,6 @@
 ### Technologies 👨‍💻 and Tools :wrench:
 
 <a href=""> <img align="left" alt="C# Programming" width="40px" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" /> </a>
-<a href=""> <img align="left" alt="SQL" width="40px" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" /> </a>
-
 <a href="https://code.visualstudio.com/"> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 <a href="https://www.apachefriends.org/index.html"> <img align="left" alt="XAMPP" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" height ="42px"/> </a>
 <a href="https://developer.android.com"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
