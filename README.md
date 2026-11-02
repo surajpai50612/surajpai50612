@@ -1,4 +1,4 @@
-## Hey there, I'm Suraj Pai K 👋
+# Hey there, I'm Suraj Pai K 👋
 
 ### I am a Senior Software Engineer💻 and Enthusiastic Learner📚
 
